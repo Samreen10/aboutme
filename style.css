@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 200;
+    padding: 0;
+    background-color: #ffffff;
+  }
+
+h1 {
+   color: steelblue;
+   text-align: center;
+
+  }
+
+  img{
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    
+  }
